@@ -1,6 +1,7 @@
-text = "Chethan"
+print ("hello world")
+name = "chethan"
+age = 18
+print("my name is " + name + " and my age is " + str(age))
+name = input("what is your name? ")
+age = int(input("whats your age? "))
 
-print(text[0:3])
-print(text[3:7])
-print(text[:4])
-print(text[-3:])
